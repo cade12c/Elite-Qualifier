@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+Downloading Our Application
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+Malwarebytes will protect your device from Malware with scans that you schedule.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Accept the terms and conditions after reading and install to your C: drive.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Click Scan.
 
 ### Any optional sections
