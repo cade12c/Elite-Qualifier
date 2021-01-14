@@ -19,7 +19,6 @@ Malwarebytes will protect your device from Malware with scans that you schedule.
 Accept the terms and conditions after reading and install to your C: drive.
 
 ## Usage
-
-Click Scan.
+Click scan now.
 
 ### Any optional sections
