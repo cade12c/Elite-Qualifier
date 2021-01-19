@@ -12,6 +12,8 @@ Downloading Our Application
 
 - [Test Plan](#test-plan)
 
+- [Test Report](#test-report)
+
 ## Background
 
 Malwarebytes will protect your device from Malware with scans that you schedule.
@@ -30,3 +32,6 @@ Click Scan.
 ## Test Plan
 1. Run The Test
 2. Check the result
+
+## Test Report
+Report
